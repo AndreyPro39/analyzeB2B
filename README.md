@@ -94,6 +94,7 @@ ollama run gemma4:31b-cloud "тест"  # smoke-тест
 
 ```powershell
 & C:\Users\<user>\AppData\Local\Python\pythoncore-3.14-64\python.exe -m pip install ollama
+ примечание -  «замените <user> на ваше имя пользователя».
 ```
 
 ### 3. Подготовка `prompt.txt`
