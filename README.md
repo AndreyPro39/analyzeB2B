@@ -88,6 +88,7 @@ winget install Ollama.Ollama
 ollama signin                       # обязательно для облачных моделей
 ollama list                         # должна быть gemma4:31b-cloud
 ollama run gemma4:31b-cloud "тест"  # smoke-тест
+pip install -r requirements.txt
 ```
 
 ### 2. Установка зависимостей Python
