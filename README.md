@@ -58,7 +58,6 @@ CLI-скрипт `analyze.py`:
 openclaw-talk analyze/conversation/     ← рабочая папка
 │
 ├── analyze.py                          ← скрипт анализа
-├── merge_reports.py                    ← сборка сводного отчёта (опционально)
 ├── prompt.txt                          ← шаблон промпта с {{TRANSCRIPT}}
 │
 ├── conversation/                       ← ВХОДНАЯ папка с диалогами
