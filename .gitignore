@@ -1,0 +1,14 @@
+﻿__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+output/*.md
+!output/.gitkeep
+
+# Входные данные (реальные диалоги клиентов)
+conversation/
+
+# Сгенерированные отчёты
+summary_report*.docx
+summary_report*.md
